@@ -2,7 +2,7 @@
 
 #########################################################
 ### Name : Country ISO Code to Country Name Generator ###
-### Ver : v1.0                                        ###
+### Ver : v1.1                                        ###
 ### Release Date : 26 - Jun - 2019                    ###
 ### Author : Sriram Vairamony                         ###
 #########################################################
